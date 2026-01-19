@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anchalthakur12/leetcode-solutions/tree/master/0268-missing-number) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anchalthakur12/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/anchalthakur12/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anchalthakur12/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anchalthakur12/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anchalthakur12/leetcode-solutions/tree/master/0268-missing-number) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anchalthakur12/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,9 +47,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anchalthakur12/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/anchalthakur12/leetcode-solutions/tree/master/1895-largest-magic-square) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anchalthakur12/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/anchalthakur12/leetcode-solutions/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
