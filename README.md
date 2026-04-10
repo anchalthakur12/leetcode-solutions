@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/anchalthakur12/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/anchalthakur12/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/anchalthakur12/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anchalthakur12/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/anchalthakur12/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anchalthakur12/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0268-missing-number](https://github.com/anchalthakur12/leetcode-solutions/tree/master/0268-missing-number) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anchalthakur12/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/anchalthakur12/leetcode-solutions/tree/master/1895-largest-magic-square) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/anchalthakur12/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anchalthakur12/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
