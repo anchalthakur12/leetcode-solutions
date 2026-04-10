@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/anchalthakur12/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/anchalthakur12/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/anchalthakur12/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/anchalthakur12/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/anchalthakur12/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/anchalthakur12/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/anchalthakur12/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/anchalthakur12/leetcode-solutions/tree/master/0268-missing-number) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anchalthakur12/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anchalthakur12/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
